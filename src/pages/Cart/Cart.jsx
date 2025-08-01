@@ -1,3 +1,4 @@
+// Displays and manages the shopping cart page, including cart items, totals, and promocode input.
 import React, { useContext } from "react";
 import "./Cart.css";
 import { StoreContext } from "../../context/StoreContext";
@@ -109,3 +110,4 @@ const Cart = () => {
 };
 
 export default Cart;
+

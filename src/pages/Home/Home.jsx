@@ -1,3 +1,5 @@
+// Home.jsx - Main landing page with menu, food display, and app download.
+
 import React, { useState } from "react";
 import "./Home.css";
 import Header from "../../components/Header/Header";
