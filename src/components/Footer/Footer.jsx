@@ -17,6 +17,7 @@ const Footer = () => {
             repellendus. Tempore, expedita. At praesentium deserunt minima!
             Porro iste beatae maxime voluptatem?
           </p>
+
           <div className="footer-social-icons">
             <a href="https://www.facebook.com">
               <img src={assets.facebook_icon} alt="facebook" />
@@ -28,6 +29,8 @@ const Footer = () => {
               <img src={assets.linkedin_icon} alt="linkedin" />
             </a>
           </div>
+
+
         </div>
         <div className="footer-content-center">
           <h2>COMPANY</h2>
@@ -46,6 +49,7 @@ const Footer = () => {
           </ul>
         </div>
       </div>
+      
       <hr />
       <p className="footer-copyright">Copyright 2024 © Tomato.com</p>
     </footer>
