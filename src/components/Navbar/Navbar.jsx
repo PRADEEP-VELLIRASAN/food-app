@@ -1,9 +1,9 @@
+// Navbar.jsx - Displays the top navigation bar with links, cart icon, and sign-in button.
 import React, { useContext, useState } from "react";
 import { StoreContext } from "../../context/StoreContext";
 import "./Navbar.css";
 import { assets } from "../../assets/assets";
 import { Link } from "react-router-dom";
-
 
 const Navbar = ({ setShowLogin }) => {
   const { getTotalQuantity } = useContext(StoreContext);

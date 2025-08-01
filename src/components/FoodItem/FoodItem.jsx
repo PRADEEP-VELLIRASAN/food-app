@@ -1,3 +1,4 @@
+// FoodItem.jsx - Displays a single food item with add/remove cart controls.
 import React, { useContext } from "react";
 import "./FoodItem.css";
 import { assets } from "../../assets/assets";

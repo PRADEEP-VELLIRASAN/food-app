@@ -1,3 +1,4 @@
+// AppDownload.jsx - Promotes downloading the mobile app with store links.
 import React from "react";
 import "./AppDownload.css";
 import { assets } from "../../assets/assets";

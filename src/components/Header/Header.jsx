@@ -1,3 +1,4 @@
+// Header.jsx - Displays the main header with a call-to-action for ordering food.
 import React from "react";
 import "./Header.css";
 

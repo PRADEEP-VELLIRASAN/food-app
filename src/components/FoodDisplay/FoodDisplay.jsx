@@ -1,3 +1,4 @@
+// FoodDisplay.jsx - Lists food items filtered by selected category.
 import React, { useContext } from "react";
 import "./FoodDisplay.css";
 import { StoreContext } from "../../context/StoreContext";

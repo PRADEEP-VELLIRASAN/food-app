@@ -1,3 +1,4 @@
+// LoginPopup.jsx - Handles user login and signup popup form.
 import React, { useState } from "react";
 import "./LoginPopup.css";
 import { assets } from "../../assets/assets";

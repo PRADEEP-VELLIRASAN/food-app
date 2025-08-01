@@ -1,3 +1,4 @@
+// ExploreMenu.jsx - Lets users select a food category to filter menu items.
 import React from "react";
 import "./ExploreMenu.css";
 import { menu_list } from "../../assets/assets";
@@ -37,6 +38,5 @@ const ExploreMenu = ({ category, setCategory }) => {
     </div>
   );
 };
-
 
 export default ExploreMenu;

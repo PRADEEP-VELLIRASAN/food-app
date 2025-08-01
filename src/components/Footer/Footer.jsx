@@ -1,3 +1,4 @@
+// Footer.jsx - Shows company info, social links, and contact details at the bottom.
 import React from "react";
 import "./Footer.css";
 import { assets } from "../../assets/assets";
