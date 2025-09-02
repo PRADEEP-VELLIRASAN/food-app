@@ -10,8 +10,8 @@
   letter-spacing: 0.5px;
 }
 
-.food-display-list,
-.grid-ui {
+.food-display-list,n
+.grid-ui {     
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
   gap: 36px;
