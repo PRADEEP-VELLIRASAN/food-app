@@ -1,7 +1,7 @@
 .food-display {
   margin-top: 30px;
   padding-bottom: 40px;
-}
+}     
 
 .food-display h2 {
   font-size: max(2vw, 24px);
@@ -9,7 +9,7 @@
   margin-bottom: 18px;
   letter-spacing: 0.5px;
 }
-
+e  u
 .food-display-list {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
